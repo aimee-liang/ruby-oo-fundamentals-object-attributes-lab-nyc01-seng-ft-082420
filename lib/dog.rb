@@ -1,5 +1,5 @@
-class Dog 
-  
+class Dog
+
   def name
     @name
   end
@@ -15,4 +15,5 @@ class Dog
   def breed
     @breed
   end
+
 end
