@@ -3,4 +3,5 @@ class Dog
   end
   
   
-Clifford = dog.name
+Clifford = Dog.new 
+Clifford = Dog.name
