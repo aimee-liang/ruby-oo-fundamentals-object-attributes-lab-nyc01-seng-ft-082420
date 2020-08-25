@@ -4,4 +4,4 @@ class Dog
   
   
 Clifford = Dog.new 
-Clifford = Dog.name
+Clifford.name
