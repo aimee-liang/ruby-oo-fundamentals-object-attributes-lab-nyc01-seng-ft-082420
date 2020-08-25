@@ -4,7 +4,9 @@ def name (name)
   @name = name
 end
 
-def name=
+def name=(new_name)
+  
+end
 
   
 Clifford = Dog.new 
