@@ -5,6 +5,5 @@ class Dog
   
   
   
-  
 Clifford = Dog.new 
 Clifford.name
