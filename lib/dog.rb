@@ -1,6 +1,6 @@
-class dog 
+class Dog 
   def name 
   end
   
   
-Clifford = dog.new 
+Clifford = dog.name
