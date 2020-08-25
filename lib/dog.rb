@@ -5,10 +5,10 @@ class Dog
   end
 
   def name=(name)
-    @name = new_name
+    @name
   end
+  
+  def breed = (breed)
+    
 
 end
-  
-Clifford = Dog.new 
-Clifford.name
